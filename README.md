@@ -13,3 +13,4 @@ Run the Bash script directly in any Unix-like terminal environment:
 
 ```bash
 bash simple-interest.sh
+```
