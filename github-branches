@@ -1,2 +1,7 @@
-* main
-  remotes/origin/main
+$ git branch -avv
+  bug-fix-typo        e590812 Fix README code block typo
+* main                2991efa [origin/main: ahead 2] Merge branch 'bug-fix-typo'
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main 1f376da Initial commit
+$ git status --short --branch
+## main...origin/main [ahead 2]
